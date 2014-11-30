@@ -8,7 +8,7 @@ var User = require('../app/models/user');
 var Link = require('../app/models/link');
 
 /////////////////////////////////////////////////////
-// NOTE: these tests are designed for mongo!
+// NOTE: these tests are designed for mongo! 
 /////////////////////////////////////////////////////
 
 xdescribe('', function() {
